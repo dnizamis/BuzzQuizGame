@@ -1,3 +1,3 @@
 
 # BUZZ! #
-# We recommend you to use JDK 11#
+# We recommend you to use JDK 11
